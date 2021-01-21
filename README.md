@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basicprogrammer10&layout=compact&theme=dark)
 
-📧 Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Connor@connorcode.com`<br>
+📧 Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Connor@connorcode.com`<br>
 📞 Discord: &nbsp;&nbsp;&nbsp;`Sigma#8214`<br>
 🎮 Minecraft: `Sigma76`
