@@ -1,6 +1,6 @@
 # Hello World! 👋🌎
 
-<img alt="Nice ditherd image of a snowy forrest" src="https://github.com/Basicprogrammer10/Basicprogrammer10/assets/50306817/e427da10-9417-4879-abf9-346d0c3a6fc3"></img>
+<img alt="Nice ditherd image of a snowy forrest" src="https://github.com/Basicprogrammer10/Basicprogrammer10/assets/50306817/2dcfa89e-16b3-42ad-a0f2-380ecd7fad89"></img>
 
 <!--
 <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Basicprogrammer10&count_private=true&show_icons=true&hide=issues&theme=dark"></img>
